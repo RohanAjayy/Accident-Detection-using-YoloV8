@@ -16,7 +16,7 @@ This project uses **YOLOv8** for real-time accident detection from video feeds o
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yuvarajofficial14/accident-detection-yolov8.git
+   git clone https://github.com/RohanAjayy/accident-detection-yolov8.git
    cd accident-detection-yolov8
    ```
 
